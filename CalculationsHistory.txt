@@ -1,0 +1,11 @@
+The input given were 12 , 23 and the result of the Add operation was 35
+The input given were 12 , 12 and the result of the Add operation was 24
+The input given were 12 , 12 and the result of the Add operation was 24
+The input given were 12 , 12 and the result of the Add operation was 24
+The input given were 12 , 12 and the result of the Add operation was 24
+The input given were 12 , 12 and the result of the Add operation was 24
+The input given were 12 , 12 and the result of the Add operation was 24
+The input given were 12 , 20 and the result of the Add operation was 32
+The input given were 2 , 1 and the result of the Subtract operation was 1
+The input given were 12 , 12 and the result of the Add operation was 24
+The input given was 20.0 and the result of the Cos operation was 0.9396926207859084
