@@ -20,7 +20,6 @@ public class Calculator {
     }
 
     public static int userOptions(){
-        System.out.println("EMILY FRANCIS");
         System.out.println("Welcome to the Scientific Calulator");
         System.out.println("Below are the list of operations ");
         System.out.println("1. Addition") ;
