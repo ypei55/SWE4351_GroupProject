@@ -1,7 +1,9 @@
 package Inputs;
+
 import java.util.Scanner;
 
 public class SingleInput {
+    
     private int x=0;
     
     public int getX() {
@@ -13,9 +15,11 @@ public class SingleInput {
     }
 
     public static int UserInput(){
+        
         SingleInput input = new SingleInput();
         Scanner sc = new Scanner(System.in);
         boolean isInt = false;
+        
         while(!isInt){
             System.out.println("Please enter the value : ");
             try{
