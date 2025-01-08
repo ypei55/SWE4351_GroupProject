@@ -2,8 +2,6 @@ package Operations;
 
 import java.util.Scanner;
 
-import java.lang.Math;
-
 import CalcHistory.SaveCalcs;
 
 public class SipCalc extends SaveCalcs {

@@ -1,7 +1,5 @@
 package Operations;
 
-import java.lang.Integer;
-
 import java.util.Scanner;
 
 import CalcHistory.SaveCalcs;
@@ -14,7 +12,7 @@ public class d2b extends SaveCalcs {
 
     public void d2bConvert() {
 
-        System.out.println("Enter a decimal number to be coverted to binary : ");
+        System.out.println("Enter a decimal number to be coverted to binary: ");
         Scanner sc = new Scanner(System.in);
         num = sc.nextDouble();
         bin = Integer.toBinaryString((int) (num));
